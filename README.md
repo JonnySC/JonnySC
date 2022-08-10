@@ -1,23 +1,10 @@
 <h1 align="center">Hi 👋, I'm Jonathan Salas Cervantes</h1>
-<h3 align="center">-2 años de experiencia en el área de las tecnologías (TI)</h3>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonnysc&label=Profile%20views&color=0e75b6&style=flat" alt="jonnysc" /> </p>
 
 <p align="left"> <a href="https://twitter.com/jonnyscmx" target="blank"><img src="https://img.shields.io/twitter/follow/jonnyscmx?logo=twitter&style=for-the-badge" alt="jonnyscmx" /></a> </p>
 
-- 🌱 I’m currently learning **Node.js**
-
-- 👨‍💻 All of my projects are available at [https://www.jonnysc.com/portafolio/](https://www.jonnysc.com/portafolio/)
-
-- 📝 I regularly write articles on [https://www.jonnysc.com/blog/](https://www.jonnysc.com/blog/)
-
-- 💬 Ask me about **Tecnologías, Informática y comunicaciones**
-
-- 📫 How to reach me **correojonnysc@gmail.com**
-
-- 📄 Know about my experiences [https://www.linkedin.com/in/jonnysc/](https://www.linkedin.com/in/jonnysc/)
-
-- ⚡ Fun fact **Gamer de medio tiempo :D**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
