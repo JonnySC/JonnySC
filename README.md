@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jonnysc&label=Profile%20views&color=0e75b6&style=flat" alt="jonnysc" /> </p>
 
-<p align="left"> <a href="https://twitter.com/elingenierotrip" target="blank"><img src="https://img.shields.io/twitter/follow/jonnyscmx?logo=twitter&style=for-the-badge" alt="jonnyscmx" /></a> </p>
+<p align="left"> <a href="https://twitter.com/elingenierotrip" target="blank"><img src="https://img.shields.io/twitter/follow/jonnyscmx?logo=twitter&style=for-the-badge" alt="El Jonny" /></a> </p>
 
 
 <h3 align="left">Connect with me:</h3>
