@@ -27,4 +27,11 @@
 <img align="center"  src="https://camo.githubusercontent.com/6fcbbed3cf22b607d13441413eb0f2500e9767e59fecd7d15cdb5707d30376b2/68747470733a2f2f706963732e6672656569636f6e732e696f2f75706c6f6164732f69636f6e732f706e672f31343632313937313535333735303232302d3531322e706e67" alt="net" width="60" height="60"/> </a> 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="50" height="50"/> </a>
 
-                                                                                                                     
+
+<br>
+<a href="https://github.com/JonnySC/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnySC&langs_count=15" />
+</a>
+
+
+                                                                                            
