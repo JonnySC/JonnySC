@@ -22,7 +22,12 @@
 <img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="45" height="40"/> </a>
 <img align="center" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" alt="csharp" width="50" height="50"/> </a>
-<img align="center" src="http://3con14.biz/code/_data/js/intro/js-logo.png" alt="javascript" width="40" height="40"/> </a>
+<img align="center" src="http://3con14.biz/code/_data/js/intro/js-logo.png" alt="javascript" width="50" height="50"/> </a>
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="50" height="50"/>&nbsp;
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
+<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="50" height="50"/>&nbsp;
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor" width="50" height="50"/> </a>
 <img align="center"  src="https://camo.githubusercontent.com/6fcbbed3cf22b607d13441413eb0f2500e9767e59fecd7d15cdb5707d30376b2/68747470733a2f2f706963732e6672656569636f6e732e696f2f75706c6f6164732f69636f6e732f706e672f31343632313937313535333735303232302d3531322e706e67" alt="net" width="60" height="60"/> </a> 
 <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="50" height="50"/> </a>
@@ -30,7 +35,7 @@
 
 <br>
 <a href="https://github.com/JonnySC/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnySC&langs_count=15" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnySC&langs_count=15&theme=midnight-purple" />
 </a>
 
 
