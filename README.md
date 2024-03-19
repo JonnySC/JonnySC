@@ -1,42 +1,89 @@
-<h1 align="center">Hi 👋, I'm Jonny</h1>
+<div align="center">
+  <h1 align="center">
+    Hi 👋, I'm Jonny
+    <br />
+    <br />
+    <a href="https://jonnysc.github.io/Portfolio/">
+      <img src="https://github.com/JonnySC/JonnySC/assets/54864070/ae2d007c-e841-4fae-9fe4-59a466d4e7e3" alt="Portafolio">
+  </h1>
+</div>
+      <p align='center'>
+  <a href="https://www.linkedin.com/in/jonathan-salas-c/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>&nbsp;&nbsp;
+</p>
+<p align='center'>
+  I am a cloud services consultant and .net developer from Mexico.
+</p>
+<p align="center"> 
+  <img src="https://img.shields.io/github/followers/JonnySC" />
+  <img src="https://komarev.com/ghpvc/?username=jonnysc&label=Profile%20views&color=0e75b6&style=flat" alt="jonnysc" /> 
+  <img src="https://img.shields.io/youtube/views/93lns321jGM" />
+  <img src="https://img.shields.io/twitch/status/michingeniero" />
+  <img src="https://img.shields.io/discord/1025468252022915232?logo=discord" alt="chat on Discord">
+</p>
+<p align='center'>
+  <a href="#"><img src="https://github-readme-stats.vercel.app/api?username=JonnySC&show_icons=true&count_private=true&theme=dark" width="350"></a>
+</p>
 
-
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=jonnysc&label=Profile%20views&color=0e75b6&style=flat" alt="jonnysc" /> </p>
-
-<p align="center"> <a href="https://twitter.com/elingenierotrip" target="blank"><img src="https://img.shields.io/twitter/follow/elingenierotrip?logo=twitter&style=for-the-badge" alt="elingenierotrip" /></a> </p>
-
-  <p align="center">I am a <strong>software developer </strong> <br /> check my content👇!</p>
 <p align="center">
-   
-   <a href="https://www.youtube.com/@elingenierotrip" target="blank" style='margin-right:4px '>
-    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/e/ef/Youtube_logo.png" alt="elingenierotrip" height="40px" width="55px" />
-  </a>
- 
+💻 My workspace<br/><br/>
+<img src="https://img.shields.io/badge/windows 11-%230078D6.svg?&style=for-the-badge&logo=windows&logoColor=white" />
+<img src="https://img.shields.io/badge/AMD%20Ryzen_5_4000X-ED1C24?style=for-the-badge&logo=amd&logoColor=white">
+<img src="https://img.shields.io/badge/RAM-16GB-%230071C5.svg?&style=for-the-badge&logoColor=white" />
+<img src="https://img.shields.io/badge/NVIDIA-GTX1660-76B900?style=for-the-badge&logo=nvidia&logoColor=white">
+</p>
 
-<h3 align="center">Languages and Tools:</h3>
-
-<p align="center">
-<img align="center" src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="Visual Studio" width="40" height="40"/> </a> <a href="https://visualstudio.microsoft.com/es/" target="_blank" rel="noreferrer"> 
-<img align="center" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="50" height="50"/> </a> 
-<img align="center" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="50" height="50"/> </a> 
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b2/Bootstrap_logo.svg/1280px-Bootstrap_logo.svg.png" alt="bootstrap" width="45" height="40"/> </a>
-<img align="center" src="https://camo.githubusercontent.com/8d56e87edf99e89bfc457cd62462e0b7aae19e6b197b1df5c542d474d8d76f81/68747470733a2f2f646576656c6f7065722e6665646f726170726f6a6563742e6f72672f7374617469632f6c6f676f2f6373686172702e706e67" alt="csharp" width="50" height="50"/> </a>
-<img align="center" src="http://3con14.biz/code/_data/js/intro/js-logo.png" alt="javascript" width="50" height="50"/> </a>
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="Typescript" alt="Typescript" width="50" height="50"/>&nbsp;
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/jupyter/jupyter-original-wordmark.svg" title="Jupiter" alt="Jupiter" width="50" height="50"/>&nbsp;
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>&nbsp;
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>&nbsp;
-<img align="center" src="https://github.com/devicons/devicon/blob/master/icons/vuejs/vuejs-original.svg" title="Vuejs" alt="Vuejs" width="50" height="50"/>&nbsp;
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/d/d0/Blazor.png" alt="blazor" width="50" height="50"/> </a>
-<img align="center"  src="https://camo.githubusercontent.com/6fcbbed3cf22b607d13441413eb0f2500e9767e59fecd7d15cdb5707d30376b2/68747470733a2f2f706963732e6672656569636f6e732e696f2f75706c6f6164732f69636f6e732f706e672f31343632313937313535333735303232302d3531322e706e67" alt="net" width="60" height="60"/> </a> 
-<img align="center" src="https://upload.wikimedia.org/wikipedia/commons/f/fa/Microsoft_Azure.svg" alt="azure" width="50" height="50"/> </a>
+<p align='center'>
+  📫 How to reach me: <a href='mailto:elingenierotrip@gmail.com'>elingenierotrip@gmail.com</a>
+</p>
 
 
-<br>
-<a href="https://github.com/JonnySC/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JonnySC&langs_count=15&theme=midnight-purple" />
-</a>
+<details>
+  <summary>📃 Resume</summary>
+
+
+## Education
+- 📖 **Master's degree in computer science**\
+📆 2020 - 2022\
+📍 **Computing Research Center** - CDMX, Mexico
+- 📖 **Information and communications technology engineer**\
+📆 2015 - 2020\
+📍 **Álamo Higher Technological Institute Tuxpan Unit** - Veracruz, Mexico
+
+## Experience
+
+<img align="right" src="https://img.shields.io/badge/Azure-0089D6?logo=microsoft-azure&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/SQL%20Server-CC2927?logo=microsoft-sql-server&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/html5-E34F26?logo=html5&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/css3-1572B6?logo=css3&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/bootstrap-563D7C?logo=bootstrap&logoColor=white" />
+
+- 👨‍💻 **Cloud services consultant and .net developer**\
+📆 2022 - moment\
+📍 **Centro de Negocios Polanco** - CDMX, Mexico
+
+
+
+## Skills
+
+<img align="right" src="https://img.shields.io/badge/(My)SQL-4479A1?logo=mysql&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/BASH-4EAA25?logo=gnu-bash&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C Sharp-239120?logo=c-sharp&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/C++-00599C?logo=c%2B%2B&logoColor=white" />
+
+**Programming**
+
+<img align="right" src="https://img.shields.io/badge/Ubuntu-E95420?logo=ubuntu&logoColor=white" />
+<img align="right" src="https://img.shields.io/badge/Windows-0078D6?logo=windows&logoColor=white" />
+
+**Operating Systems**
+
+</details>
+
+
 
 
                                                                                             
